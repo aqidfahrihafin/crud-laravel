@@ -8,13 +8,15 @@
 </p>
 
 
+
+
 ## HOW TO CLONE (For Developer)
 
 Jalakan perintah berikut pada terminal (Linux dan MacOS) atau PowerShell (Windows):
 
 ```
 git clone https://github.com/aqidfahrihafin/crud-laravel
-cd siakad
+cd crud-laravel
 composer install
 cp .env.example .env
 php artisan key:generate
